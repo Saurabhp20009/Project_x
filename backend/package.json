@@ -1,0 +1,22 @@
+{
+  "name": "project_x",
+  "version": "1.0.0",
+  "description": "A freelancing gig website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabhp20009/Project_x.git"
+  },
+  "author": "Saurabh patwal and rishabh purohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabhp20009/Project_x/issues"
+  },
+  "homepage": "https://github.com/Saurabhp20009/Project_x#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
