@@ -8,4 +8,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+dotenv.config();
+
+
+
+
+
 module.exports = app;
